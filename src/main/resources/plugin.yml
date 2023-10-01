@@ -3,4 +3,4 @@ version: '${version}'
 main: ru.kurasava.bas.Main
 api-version: '1.20'
 authors: [Kurasava]
-softdepend: [WorldGuard]
+#softdepend: [WorldGuard]

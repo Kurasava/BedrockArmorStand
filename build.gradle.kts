@@ -13,9 +13,9 @@ repositories {
     maven("https://repo.papermc.io/repository/maven-public/") {
         name = "papermc-repo"
     }
-    maven("https://maven.enginehub.org/repo/") {
-        name = "worldguard"
-    }
+//    maven("https://maven.enginehub.org/repo/") {
+//        name = "worldguard"
+//    }
     maven("https://oss.sonatype.org/content/groups/public/") {
         name = "sonatype"
     }
@@ -23,7 +23,7 @@ repositories {
 
 dependencies {
     compileOnly("io.papermc.paper:paper-api:1.20.1-R0.1-SNAPSHOT")
-    compileOnly("com.sk89q.worldguard:worldguard-bukkit:7.0.9")
+//    compileOnly("com.sk89q.worldguard:worldguard-bukkit:7.0.9")
 }
 
 
