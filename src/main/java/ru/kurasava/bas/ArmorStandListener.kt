@@ -1,5 +1,6 @@
 package ru.kurasava.bas
 
+import org.bukkit.Material
 import org.bukkit.entity.ArmorStand
 import org.bukkit.event.EventHandler
 import org.bukkit.event.EventPriority
@@ -16,7 +17,7 @@ object ArmorStandListener : Listener {
         val armorStand = event.rightClicked as? ArmorStand ?: return
         val player = event.player
 
-        if (!player.inventory.itemInMainHand.type.isAir && !player.isSneaking) return
+        if (player.inventory.itemInMainHand.type != Material.AIR && !player.isSneaking) return
 //        if (Main.instance.AS_FLAG != null) {
 //            val regionManager = WorldGuard.getInstance().platform.regionContainer
 //            val query = regionManager.createQuery()

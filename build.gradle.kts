@@ -22,13 +22,13 @@ repositories {
 }
 
 dependencies {
-    compileOnly("io.papermc.paper:paper-api:1.20.1-R0.1-SNAPSHOT")
+    compileOnly("org.spigotmc:spigot-api:1.14.1-R0.1-SNAPSHOT")
 //    compileOnly("com.sk89q.worldguard:worldguard-bukkit:7.0.9")
 }
 
 
 
-val targetJavaVersion = 17
+val targetJavaVersion = 8
 java {
     val javaVersion = JavaVersion.toVersion(targetJavaVersion)
     sourceCompatibility = javaVersion
@@ -41,7 +41,7 @@ tasks.withType<JavaCompile>().configureEach {
 
 tasks.withType<KotlinCompile>().configureEach {
     kotlinOptions {
-        jvmTarget = targetJavaVersion.toString()
+        jvmTarget = "1.8"
     }
 }
 
