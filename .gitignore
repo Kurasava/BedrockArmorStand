@@ -1,0 +1,35 @@
+# Eclipse IDE
+.classpath
+.project
+.settings
+/bin
+
+# IntelliJ IDEA
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Mac filesystem
+.DS_Store
+
+# Maven
+/target
+dependency-reduced-pom.xml
+
+# Gradle
+.gradle
+**/build/
+!src/**/build/
+
+# Ignore Gradle GUI config
+gradle-app.setting
+
+# Avoid ignoring Gradle wrapper jar file (.jar files are usually ignored)
+!gradle-wrapper.jar
+
+# Avoid ignore Gradle wrappper properties
+!gradle-wrapper.properties
+
+# Cache of project
+.gradletasknamecache
