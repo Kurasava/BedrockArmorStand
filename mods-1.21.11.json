@@ -653,6 +653,20 @@
     ]
   },
   {
+    "id": "schematicpreview",
+    "name": "SchematicPreview",
+    "purpose": "Оптимизация",
+    "description": "3D schematic previews & other utilities for litematica",
+    "icon_url": "https://cdn.modrinth.com/data/OC1Ud2T4/72dc4ed0ac7569539960dbdc7c60915c105f1c84.png",
+    "site_link": "https://modrinth.com/mod/schematicpreview",
+    "hidden": false,
+    "required": false,
+    "recommended": true,
+    "library": false,
+    "broken": false,
+    "download_link": "https://cdn.modrinth.com/data/OC1Ud2T4/versions/drhz3vaw/schematicpreview-0.0.16%2B1.21.11.jar"
+  },
+  {
     "id": "2M01OLQq",
     "name": "Shulker Box Tooltip",
     "purpose": "Утилиты",
