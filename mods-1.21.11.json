@@ -423,6 +423,20 @@
     "download_link": "https://cdn.modrinth.com/data/x1hIzbuY/versions/ip2tVKLp/fastquit-3.1.3%2Bmc1.21.11.jar"
   },
   {
+    "id": "fusion-connected-textures",
+    "name": "Fusion (Connected Textures)",
+    "purpose": "Текстуры",
+    "description": "Fusion allows resource packs to use additional texture and model types such as connected textures!",
+    "icon_url": "https://cdn.modrinth.com/data/p19vrgc2/8a9940a468bb536f7402b389d583e7f070ee14fb_96.webp",
+    "site_link": "https://modrinth.com/mod/fusion-connected-textures",
+    "hidden": false,
+    "required": false,
+    "recommended": false,
+    "library": false,
+    "broken": false,
+    "download_link": "https://cdn.modrinth.com/data/p19vrgc2/versions/mejTd03X/fusion-1.2.12a-fabric-mc1.21.11.jar"
+  },
+  {
     "id": "Agw7MFEL",
     "name": "Head in the Clouds",
     "purpose": "Игровые механики",
