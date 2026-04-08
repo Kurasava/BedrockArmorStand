@@ -400,6 +400,7 @@ icon = "https://cdn.modrinth.com/data/9s6osm5g/ed8a2316cbb6f4fc5f510e8e13a59a85c
 site = "https://modrinth.com/mod/cloth-config"
 download = "https://cdn.modrinth.com/data/9s6osm5g/versions/xuX40TN5/cloth-config-21.11.153-fabric.jar"
 
+
 [[mods]]
 id = "1eAoo2KR"
 name = "YetAnotherConfigLib (YACL)"
