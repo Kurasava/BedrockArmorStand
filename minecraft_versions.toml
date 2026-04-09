@@ -1,0 +1,40 @@
+# ==============================================================================
+# ШАБЛОН ДОБАВЛЕНИЯ НОВОЙ ВЕРСИИ:
+#
+# [[versions]]
+# version = ""
+# status  = "supportedAndRecommended" | "supportedButNotRecommended" | "outdated" | "comingSoon" | "experimental"
+#
+# ==============================================================================
+
+[[versions]]
+version = "26.1.1"
+status = "comingSoon"
+
+[[versions]]
+version = "1.21.11"
+status = "supportedAndRecommended"
+
+[[versions]]
+version = "1.21.10"
+status = "supportedButNotRecommended"
+
+[[versions]]
+version = "1.21.9"
+status = "supportedButNotRecommended"
+
+[[versions]]
+version = "1.21.8"
+status = "outdated"
+
+[[versions]]
+version = "1.21.6"
+status = "outdated"
+
+[[versions]]
+version = "1.21.5"
+status = "outdated"
+
+[[versions]]
+version = "1.21.4"
+status = "outdated"
