@@ -8,10 +8,6 @@
 # ==============================================================================
 
 [[versions]]
-version = "26.1.1"
-status = "comingSoon"
-
-[[versions]]
 version = "1.21.11"
 status = "supportedAndRecommended"
 
