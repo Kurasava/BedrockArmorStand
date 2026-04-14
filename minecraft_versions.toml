@@ -18,19 +18,3 @@ status = "supportedButNotRecommended"
 [[versions]]
 version = "1.21.9"
 status = "supportedButNotRecommended"
-
-[[versions]]
-version = "1.21.8"
-status = "outdated"
-
-[[versions]]
-version = "1.21.6"
-status = "outdated"
-
-[[versions]]
-version = "1.21.5"
-status = "outdated"
-
-[[versions]]
-version = "1.21.4"
-status = "outdated"
